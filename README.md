@@ -1,6 +1,6 @@
-# Bezier-Curve
+# RBX Bezier Curve
 
-A ROBLOX module script for creating bezier curves. This is optimized automatically for both the quadratic case if 3 points are given, and the cubic case if 4 points are given. Can handle an unlimited number of points.
+A ROBLOX module script for creating bezier curves. This is optimized automatically for both the quadratic case if 3 points are given, and the cubic case if 4 points or more are given. Can handle an unlimited number of points.
 
 ## Methods:
 ```Lua
